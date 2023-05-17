@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\lohwe\.gradle\caches\transforms-3\76a9cad7e83f225a8537b1c61afad155\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lohwe\.gradle\caches\transforms-3\7555cf3491d1f85391a230ddd346a09e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\lohwe\.gradle\caches\transforms-3\59917aed79c24729959832f88745b4e7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -44,27 +44,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lohwe\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lohwe\.gradle\caches\transforms-3\cd9ccec5bb170ca225a487207f5fd79d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\lohwe\.gradle\caches\transforms-3\ad58f6ade23d54ab5934e522f17a9a94\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\lohwe\.gradle\caches\transforms-3\a4cbe73c20660dafad3bb0fee028344e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:1-38:12
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:5:5-36:19
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:5:5-31:19
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\lohwe\.gradle\caches\transforms-3\76a9cad7e83f225a8537b1c61afad155\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\lohwe\.gradle\caches\transforms-3\76a9cad7e83f225a8537b1c61afad155\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lohwe\.gradle\caches\transforms-3\7555cf3491d1f85391a230ddd346a09e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -82,43 +82,59 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lo
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\lohwe\.gradle\caches\transforms-3\056fd093db4f0be2007059381247e096\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:13:9-46
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.week2new.MainActivity
-ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:16:9-24:20
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.week2new.MessageGroup
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.example.week2new.ListActivity
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.week2new.MainActivity
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:27:9-29:48
+	android:exported
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:28:13-41
+activity#com.example.week2new.MainActivity2
+ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:30:9-60
+	android:name
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml:30:19-48
 uses-sdk
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\lohwe\.gradle\caches\transforms-3\76a9cad7e83f225a8537b1c61afad155\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\lohwe\.gradle\caches\transforms-3\76a9cad7e83f225a8537b1c61afad155\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lohwe\.gradle\caches\transforms-3\7555cf3491d1f85391a230ddd346a09e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -199,16 +215,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\lohwe\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\lohwe\.gradle\caches\transforms-3\ad58f6ade23d54ab5934e522f17a9a94\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\lohwe\.gradle\caches\transforms-3\a4cbe73c20660dafad3bb0fee028344e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\lohwe\.gradle\caches\transforms-3\a4cbe73c20660dafad3bb0fee028344e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-2---activitylifecycle-Natalielwr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lohwe\Documents\y2s1\MAD\mad23-practical-3---eventhandling-Natalielwr\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\lohwe\.gradle\caches\transforms-3\52e8e9b0ff0a9f4a2483b4395092163a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lohwe\.gradle\caches\transforms-3\cf3dc0cf22a13ae27a45738939008c0d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20

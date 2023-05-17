@@ -28,7 +28,10 @@
         android:testOnly="true"
         android:theme="@style/Theme.Week2New" >
         <activity
-            android:name="com.example.week2new.MainActivity"
+            android:name="com.example.week2new.MessageGroup"
+            android:exported="false" />
+        <activity
+            android:name="com.example.week2new.ListActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,18 +39,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <!--
         <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.Test2">
-
-        android:theme="@style/Theme.Test2"
-
-        </activity>
-        -->
+            android:name="com.example.week2new.MainActivity"
+            android:exported="true" />
+        <activity android:name="com.example.week2new.MainActivity2" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
